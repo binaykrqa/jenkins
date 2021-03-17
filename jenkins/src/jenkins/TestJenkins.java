@@ -1,0 +1,7 @@
+package jenkins;
+
+public class TestJenkins {
+public static void main(String[] args) {
+	System.out.println("Jay Maa Sharde!!");
+}
+}
